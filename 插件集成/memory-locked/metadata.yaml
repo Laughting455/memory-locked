@@ -1,6 +1,6 @@
-name: astrbot_plugin_brain_memory
+name: memory-locked
 desc: 仿人脑分层长期记忆系统——自动回忆注入、指令管理、LLM 自主记忆、每日归档衰减
 version: 1.0.0
 author: you
-repo: https://github.com/yourname/astrbot_plugin_brain_memory
+repo: https://github.com/Laughting455/memory-locked
 astrbot_version: ">=4.0,<5"

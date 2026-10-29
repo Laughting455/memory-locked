@@ -2,7 +2,7 @@
 
 三种方式把记忆系统接入你的 AI，按场景选择：
 
-## 1. AstrBot 插件（`astrbot_plugin_brain_memory/`）
+## 1. AstrBot 插件（`memory-locked/`）
 
 适合：QQ / 微信 / Telegram 等聊天机器人场景。
 

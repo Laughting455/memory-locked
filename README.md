@@ -184,7 +184,7 @@ python3 memory_system.py context "推荐一些零食" --max 2000
 
 | 集成 | 文件 | 适用场景 |
 |---|---|---|
-| AstrBot 插件 | `插件集成/astrbot_plugin_brain_memory/` | QQ/微信/Telegram 机器人，支持 `/记住` 等聊天指令、自动注入、模型自主记忆 |
+| AstrBot 插件 | `插件集成/memory-locked/` | QQ/微信/Telegram 机器人，支持 `/记住` 等聊天指令、自动注入、模型自主记忆 |
 | OpenAI 兼容封装 | `插件集成/openai_compatible_agent.py` | DeepSeek API、Ollama、LM Studio 等，三行配置即用 |
 | MCP 服务器 | `插件集成/mcp_server.py` | Claude Desktop、Cline、Cursor 等标准 Agent |
 

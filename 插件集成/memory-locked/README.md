@@ -2,15 +2,6 @@
 
 把仿人脑分层记忆系统接入 AstrBot，让机器人拥有可衰减、可复习、可遗忘的长期记忆。零第三方依赖。
 
-## 安装
-
-把整个 `astrbot_plugin_brain_memory` 文件夹复制到 AstrBot 的插件目录：
-
-```
-AstrBot/data/plugins/astrbot_plugin_brain_memory/
-```
-
-在 WebUI「插件」页点击重载，日志出现“长期记忆插件已加载”即成功。
 
 ## 聊天指令
 
